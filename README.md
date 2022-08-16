@@ -3,5 +3,5 @@
 👽 Atualmente Estudo Python e C++ 
 
 
-  <a href="https://www.linkedin.com/feed/" target="_blank"><img src=" "_blank"></a>
+  <a href="https://www.linkedin.com/feed/" target=" " "_blank"></a>
 
