@@ -1,4 +1,4 @@
-### Olá! Eu sou Eduardo C. Smith
+### Hi! I'M EDUARDO SMITH
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽  
 
