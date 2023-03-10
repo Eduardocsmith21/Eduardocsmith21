@@ -1,4 +1,4 @@
-### Hi! I'M EDUARDO SMITH
+### Hi I'M EDUARDO SMITH
 
 👽👽👽👽👽👽👽👽👽👽👽👽👽👽  
 
