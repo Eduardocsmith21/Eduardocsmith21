@@ -1,4 +1,4 @@
-### Hi i'm Eduardo Smith
+### Eduardo C. Smith
 
 👽👽👽👽👽👽👽👽👽👽👽
 
