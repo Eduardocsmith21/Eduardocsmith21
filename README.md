@@ -18,4 +18,5 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/Eduardocsmith21/Eduardocsmith21/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Eduardocsmith21/Eduardocsmith21/output/github-contribution-grid-snake.svg)
+
