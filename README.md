@@ -1,16 +1,17 @@
 <h1 align="center">🎨 Olá, eu sou o Eduardo C. Smith</h1>
 
 <p align="center">
-  👨‍💻 Desenvolvedor focado em <b>Front-end</b> e apaixonado por <b>UI/UX</b> <br>
+  👨‍💻 Desenvolvedor Web <br>
   🚀 Criando interfaces modernas, responsivas e interativas
 </p>
+
 
 ---
 
 ## 🌟 Sobre mim
 - 🎯 Interesse especial em **JavaScript, React e desenvolvimento web responsivo**  
 - 🧑‍🎨 Preocupado com **experiência do usuário** e **design limpo**  
-- 📚 Sempre aprendendo sobre **novas tecnologias de front-end**  
+- 📚 Sempre aprendendo sobre **novas tecnologias**  
 - 🔐 Também com um pé em **segurança da informação**  
 
 ---
@@ -28,7 +29,7 @@
 | 💻 **Tecnologia** | 🚀 **Nível** | ✨ **O que eu curto** |
 |-------------------|-------------|-----------------------|
 | **HTML5 / CSS3** | ⭐⭐⭐☆ ☆ | Estruturar páginas semânticas e acessíveis |
-| **JavaScript  | ⭐⭐☆ ☆ ☆ | Animações, interatividade e boas práticas |
+| **JavaScript**  | ⭐⭐☆ ☆ ☆ | Animações, interatividade e boas práticas |
 | **React.js** | ⭐ ☆ ☆ ☆ ☆ | Componentização e SPA's modernas |
 | **Tailwind / Bootstrap** | ⭐⭐☆ ☆ ☆ | Layouts responsivos e rápidos |
 | **Figma** | ⭐⭐⭐☆ | Prototipagem e design UI/UX |
